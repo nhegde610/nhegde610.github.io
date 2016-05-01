@@ -96,16 +96,4 @@ div#l2 a:hover{
 	border-style:outset;
 	background:#FF0000;
 }
-body#bck1{
-	 background: #19180F url(owl1.jpg) no-repeat center center fixed; 
-       -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  	
-}
-
- 
-      
-
 
